@@ -1,0 +1,18 @@
+Descrição:
+
+F- Funcionalidade
+RN- Regras de Negócio
+RF- Requisitos Funcionais
+RNF- Requisitos não Funcionais
+
+
+F-
+
+RN-
+
+
+RF-
+
+
+
+RNF-
