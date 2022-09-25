@@ -1,0 +1,22 @@
+Como Cliente quero entrar na minha conta com cartão e código PIN para poder realizar as transações.
+
+
+Como Cliente quero consultar o saldo da minha conta bancária para poder realizar as transações.
+
+
+Como Cliente quero depositar dinheiro na minha conta bancária através do  caixa eletrônico 
+para poupar tempo e realizar as transações mais tarde.
+
+
+Como Cliente pretendo depositar cheque na minha conta bancária através do  caixa eletrônico  
+Para que possa poupar tempo e realizar as transacções mais tarde.
+
+Como Cliente, quero sacar dinheiro da minha conta bancária através do caixa eletrônico Para economizar meu tempo
+
+
+Como Cliente, quero transferir dinheiro da minha conta para outra conta bancária através do caixa eletrônico
+ Para economizar meu tempo
+
+
+Como Cliente, quero sair da minha conta bancária através do caixa eletronico Para poder encerrar a minha
+ sessão no caixa eletrônico.

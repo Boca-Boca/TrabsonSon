@@ -8,10 +8,38 @@ RNF- Requisitos não Funcionais
 
 F-
 
+ Se não houver um cartão eletrônico introduzido no compartimento apropriado do caixa, é exibida uma
+mensagem inicial de boas-vindas.
+
+
 RN-
 
 
+Nas tranferencias o sistema deve atualizar as duas contas simultaneamente
+
+O cliente precisa estar logado antes de verificar o saldo.
+
+O cliente precisa estar logado antes de transferir o valor.
+
+O cliente precisa estar logado antes de sacar um valor.
+
+O cliente precisa estar logado antes de depositar um valor em sua conta.
+
+O cliente precisa estar logado antes de depositar o cheque.
+
+Caso o Cliente insira o código PIN errado três vezes, o sistema bloqueia o cartão.
+
+
+
 RF-
+
+O sistema deve verificar o número da conta do destinatário e validá-lo antes de realizar as transações.
+
+O sistema deve verificar o valor escrito no cheque depositado solicitando ao usuário
+ 
+O sistema devera perguntar ao usuário se o usuário deseja o relatório e o recibo da sessão para toda a sessão.
+
+O sistema verifica se o valor da solicitação excede o saldo
 
 
 
